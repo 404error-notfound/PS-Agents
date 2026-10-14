@@ -3,7 +3,7 @@
 - 189545 – Omondi Angela Achieng
 - 189225 – Githaiga Emmanuel Mundia
 
-## QUESTION 1: 
+## QUESTION 1
 ### PEAS FRAMEWORK DESIGN
 - **Performance Measure:** Fuel Efficiency, time taken to reach the destination (Kisumu), cost of the path  (total kilometers travelled), safety (avoiding collision).<br/>
 - **Environment:** Road signs and traffic lights, weather conditions, pedestrians, traffic & other vehicles,  towns along the road, highway networks for example A8, B1, B3, B5.<br/>
@@ -28,7 +28,10 @@ e. Single vs. Multi-Agent<br/>
 
 
 ## QUESTION 2: DIRECTED GRAPH AND SEARCH TREE
+![A directed graph showing possible paths that the PS-Agent can take.]
+(https://github.com/JoyJudy/PS-Agents/blob/main/DIRECTED-GRAPH.drawio.png)
 
-
+![A search tree showing possible routes from Nairobi, the initial state, to Kisumu, the goal state.]
+(https://github.com/JoyJudy/PS-Agents/blob/main/SEARCH-TREE.jpg)
 
 ## QUESTION 3
