@@ -28,8 +28,12 @@ e. Single vs. Multi-Agent<br/>
 
 
 ## QUESTION 2: DIRECTED GRAPH AND SEARCH TREE
-![A directed graph showing possible paths that the PS-Agent can take.]()
+![A directed graph showing possible paths that the PS-Agent can take.](https://github.com/JoyJudy/PS-Agents/blob/main/images/DIRECTED-GRAPH.drawio.png)
 
-![A search tree showing possible routes from Nairobi, the initial state, to Kisumu, the goal state.]()
+![A search tree showing possible routes from Nairobi, the initial state, to Kisumu, the goal state.](https://github.com/JoyJudy/PS-Agents/blob/main/images/SEARCH-TREE.jpg)
 
 ## QUESTION 3
+
+
+## GROUP PHOTO
+![Team Members](https://github.com/JoyJudy/PS-Agents/blob/main/images/Group%20Work%20Photo.jpeg)
