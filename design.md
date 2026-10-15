@@ -75,8 +75,8 @@ e. Single vs. Multi-Agent<br/>
 7. Nairobi - Maai Mahiu - Narok - Bomet - Litein - Kericho - Ahero - Kisumu: **387.2km**
 
 
-**__OPTIMAL PATH__**: Nairobi - Nakuru - Kericho - Kapsoit - Ahero - Kisumu
-**__OPTIMAL PATH COST__**: **353.7km**
+**_OPTIMAL PATH_**: Nairobi - Nakuru - Kericho - Kapsoit - Ahero - Kisumu<br/>
+**_OPTIMAL PATH COST_**: **353.7km**
 
 
 ## GROUP PHOTO
