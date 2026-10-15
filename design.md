@@ -32,7 +32,51 @@ e. Single vs. Multi-Agent<br/>
 
 ![A search tree showing possible routes from Nairobi, the initial state, to Kisumu, the goal state.](https://github.com/JoyJudy/PS-Agents/blob/main/images/SEARCH_TREE.jpg)
 
+
 ## QUESTION 3
+| PATH | DISTANCE(KM) |
+|:-------------|--------------:|
+| Ahero - Kisumu | 23.5 |
+| Bomet - Kisii | 84 |
+| Bomet - Litein | 46 |
+| Eldoret - Kapsabet | 47 |
+| Eldoret - Webuye | 72 |
+| Kakamega - Kisumu | 51 |
+| Kapsabet - Kisumu | 80.3 |
+| Kapsoit - Ahero | 49.9 |
+| Kapsoit - Kisumu | 72.9 |
+| Kericho - Ahero | 60.9 |
+| Kericho - Kapsoit | 11.3 |
+| Kisii - Oyugis | 28 |
+| Litein - Kericho | 33 |
+| Maai Mahiu - Narok | 89 |
+| Molo - Kericho | 64.2 |
+| Nairobi - Maai Mahiu | 53.8 |
+| Nairobi - Nakuru | 161 |
+| Nakuru - Eldoret | 158 |
+| Nakuru - Kericho | 108 |
+| Nakuru - Molo | 48.5 |
+| Nakuru - Nyahururu | 63.5 |
+| Narok - Bomet | 81 |
+| Nyahururu - Molo | 111 |
+| Oyugis - Ringa | 14 |
+| Ringa - Sondu | 22 |
+| Sondu - Ahero | 29.5 |
+| Webuye - Kakamega | 48.5 |
+
+  
+### PATH COSTS
+1. Nairobi - Nakuru - Kericho - Kapsoit - Ahero - Kisumu: **353.7km**
+2. Nairobi - Nakuru - Molo - Kericho - Kapsoit - Kisumu: **357.9km**
+3. Nairobi - Nakuru - Eldoret - Kapsabet - Kisumu: **446.3km**
+4. Nairobi - Nakuru - Eldoret - Webuye - Kakamega - Kisumu: **490.5km**
+5. Nairobi - Nakuru - Nyahururu - Molo - Kericho - Kapsoit - Ahero - Kisumu: **484.4km**
+6. Nairobi - Maai Mahiu - Narok - Bomet - Kisii - Oyugis - Ringa - Sondu - Ahero - Kisumu: **424.8km**
+7. Nairobi - Maai Mahiu - Narok - Bomet - Litein - Kericho - Ahero - Kisumu: **387.2km**
+
+
+**__OPTIMAL PATH__**: Nairobi - Nakuru - Kericho - Kapsoit - Ahero - Kisumu
+**__OPTIMAL PATH COST__**: **353.7km**
 
 
 ## GROUP PHOTO
