@@ -66,13 +66,13 @@ e. Single vs. Multi-Agent<br/>
 
   
 ### PATH COSTS
-1. Nairobi - Nakuru - Kericho - Kapsoit - Ahero - Kisumu: (161+108+11.3+49.9+23.5)km =**353.7km**
-2. Nairobi - Nakuru - Molo - Kericho - Kapsoit - Kisumu: (161+48.5+64.2+11.3+72.9)km =**357.9km**
-3. Nairobi - Nakuru - Eldoret - Kapsabet - Kisumu: (161+158+47+80.3)km =**446.3km**
-4. Nairobi - Nakuru - Eldoret - Webuye - Kakamega - Kisumu: (161+158+72+48.5+51)km =**490.5km**
-5. Nairobi - Nakuru - Nyahururu - Molo - Kericho - Kapsoit - Ahero - Kisumu: (161+63.5+111+64.2+11.3+49.9+23.5)km =**484.4km**
-6. Nairobi - Maai Mahiu - Narok - Bomet - Kisii - Oyugis - Ringa - Sondu - Ahero - Kisumu: (53.8+89+81+84+28+14+22+29.5+23.5)km =**424.8km**
-7. Nairobi - Maai Mahiu - Narok - Bomet - Litein - Kericho - Ahero - Kisumu: (53.8+89+81+46+33+60.9+23.5)km =**387.2km**
+1. Nairobi - Nakuru - Kericho - Kapsoit - Ahero - Kisumu: **353.7km**
+2. Nairobi - Nakuru - Molo - Kericho - Kapsoit - Kisumu: **357.9km**
+3. Nairobi - Nakuru - Eldoret - Kapsabet - Kisumu: **446.3km**
+4. Nairobi - Nakuru - Eldoret - Webuye - Kakamega - Kisumu: **490.5km**
+5. Nairobi - Nakuru - Nyahururu - Molo - Kericho - Kapsoit - Ahero - Kisumu: **484.4km**
+6. Nairobi - Maai Mahiu - Narok - Bomet - Kisii - Oyugis - Ringa - Sondu - Ahero - Kisumu: **424.8km**
+7. Nairobi - Maai Mahiu - Narok - Bomet - Litein - Kericho - Ahero - Kisumu: **387.2km**
 
 
 **_OPTIMAL PATH_**: Nairobi - Nakuru - Kericho - Kapsoit - Ahero - Kisumu<br/>
